@@ -4,7 +4,7 @@ Hello there. 👋
 
 This GitHub organization contains repos for Canva's developer platform.
 
-## Quick start
+## First steps
 
 - To discover what's possible with Canva's developer platform, see [canva.com/developers](https://www.canva.com/developers).
 - To learn how to start building with Canva's SDKs and APIs, read the documentation at [canva.dev](https://www.canva.dev).
