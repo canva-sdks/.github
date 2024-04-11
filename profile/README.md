@@ -1,13 +1,13 @@
-# canva-sdks
+## Introduction
 
 Hello there. 👋
 
 This GitHub organization contains repos for Canva's developer platform.
 
-## Getting started
+## First steps
 
 - To discover what's possible with Canva's developer platform, see [canva.com/developers](https://www.canva.com/developers).
-- To learn how to start building with Canva's SDK and APIs, read the documentation at [canva.dev](https://www.canva.dev).
+- To learn how to start building with Canva's SDKs and APIs, read the documentation at [canva.dev](https://www.canva.dev).
 - To chat with Canva's growing developer community, check out [community.canva.dev](https://community.canva.dev).
 
 ## Developer support
